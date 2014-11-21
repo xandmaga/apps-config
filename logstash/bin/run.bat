@@ -1,0 +1,1 @@
+c:/logstash/bin/logstash.bat agent -f c:/logstash/bin/logstash.conf
